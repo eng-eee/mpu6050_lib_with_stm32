@@ -1,0 +1,11 @@
+../Mydriver/Src/MyLcd.c:24:19:Lcd_create	56	static
+../Mydriver/Src/MyLcd.c:50:6:Lcd_init	16	static
+../Mydriver/Src/MyLcd.c:70:6:Lcd_int	32	static
+../Mydriver/Src/MyLcd.c:81:6:Lcd_string	32	static
+../Mydriver/Src/MyLcd.c:92:6:Lcd_cursor	16	static
+../Mydriver/Src/MyLcd.c:106:6:Lcd_clear	16	static
+../Mydriver/Src/MyLcd.c:110:6:Lcd_home	16	static
+../Mydriver/Src/MyLcd.c:114:6:Lcd_define_char	32	static
+../Mydriver/Src/MyLcd.c:128:6:lcd_write_command	16	static
+../Mydriver/Src/MyLcd.c:147:6:lcd_write_data	16	static
+../Mydriver/Src/MyLcd.c:166:6:lcd_write	24	static

@@ -1,0 +1,3 @@
+../Mydriver/Src/MyAdc.c:13:6:MyAdcInit	8	static
+../Mydriver/Src/MyAdc.c:19:6:MyAdcLoop	8	static
+../Mydriver/Src/MyAdc.c:26:6:HAL_ADC_ConvCpltCallback	16	static

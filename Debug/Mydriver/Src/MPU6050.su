@@ -1,0 +1,9 @@
+../Mydriver/Src/MPU6050.c:19:31:MPU6050_Write_Reg	40	static
+../Mydriver/Src/MPU6050.c:30:31:MPU6050_Read_Reg	40	static
+../Mydriver/Src/MPU6050.c:42:31:MPU6050_Read_Raw_Value	40	static
+../Mydriver/Src/MPU6050.c:64:24:MPU6050_Begin	24	static
+../Mydriver/Src/MPU6050.c:103:24:MPU6050_Calibration	56	static
+../Mydriver/Src/MPU6050.c:146:24:MPU6050_Read_Temp_Value	24	static
+../Mydriver/Src/MPU6050.c:160:24:MPU6050_Read_Value	48	static
+../Mydriver/Src/MPU6050.c:184:24:MPU6050_Test	48	static
+../Mydriver/Src/MPU6050.c:201:9:MPU6050_Get_Device_Address	16	static
